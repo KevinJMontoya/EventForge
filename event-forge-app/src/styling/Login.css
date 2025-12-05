@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+/*#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-image: url('./assets/The-Rooftop-at-Pier-17-concert.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 2000px;
+  height: 100vh;
+}*/
+
+.login-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.header {
+  align-items: center;
+  display: block;
+  text-align: center;
+}
+
+.login-box { 
+  background-color: rgb(238, 234, 237);
+}
+
+.login-form-box {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+  background-color: rgb(245, 233, 233);
+}
+
+.login-form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+  background-color: white;
+}
+
+/*.forgot-button {
+
+}*/
+
+.botton-div {
+  align-content: center;
+  text-align: center;
+}
+
+/*.register-here {
+
+}*/

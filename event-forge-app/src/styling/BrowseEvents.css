@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.browse-events {
+    /*display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;*/
+    padding: 10px;
+    background: #ecd9d9;
+    border-radius: 6px;
+}
+
+.browsing-header {
+    
+    display: top;
+    text-align: center;
+    background-image: url('../assets/pilateImage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    border-radius: 6px;
+
+}
+
+.search-container {
+    height: 40px;
+    padding: 10px;
+    position: relative;
+
+}
+
+.space {
+    height: 10px;
+}

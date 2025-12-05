@@ -1,0 +1,66 @@
+
+[
+  {
+    "id": 1,
+    "firstName": "Alex",
+    "lastName": "Martinez",
+    "username": "alexm",
+    "password": "password123",
+    "email": "alex.martinez@example.com",
+    "role": "guest",
+    "profileImageURL": "https://example.com/users/alex.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "Sarah",
+    "lastName": "Kim",
+    "username": "sarahk",
+    "password": "kim2025",
+    "email": "sarah.kim@example.com",
+    "role": "guest",
+    "profileImageURL": "https://example.com/users/sarah.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "Michael",
+    "lastName": "Chen",
+    "username": "mchen",
+    "password": "techpass",
+    "email": "michael.chen@example.com",
+    "role": "organizer",
+    "organizationName": "FutureTech Corp",
+    "profileImageURL": "https://example.com/users/michael.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "username": "emjay",
+    "password": "artlover",
+    "email": "emily.johnson@example.com",
+    "role": "organizer",
+    "organizationName": "City Arts Collective",
+    "profileImageURL": "https://example.com/users/emily.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "Jacob",
+    "lastName": "Patel",
+    "username": "jpatel",
+    "password": "jacob321",
+    "email": "jacob.patel@example.com",
+    "role": "guest",
+    "profileImageURL": "https://example.com/users/jacob.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "Nina",
+    "lastName": "Rivera",
+    "username": "ninar",
+    "password": "soundwave",
+    "email": "nina.rivera@example.com",
+    "role": "organizer",
+    "organizationName": "SoundWave Entertainment",
+    "profileImageURL": "https://example.com/users/nina.jpg"
+  }
+]

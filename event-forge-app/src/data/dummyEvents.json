@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "title": "Tech Innovators Conference 2025",
+    "date": "2025-04-12",
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "location": "Toronto Convention Centre, Toronto",
+    "description": "A full-day conference featuring talks and workshops on emerging technologies, AI advancements, and software development trends.",
+    "category": "Technology",
+    "eventImageURL": "https://techsummit2026.com/wp-content/uploads/2025/07/logo-tech-summit.png",
+    "organizer": "FutureTech Corp"
+  },
+  {
+    "id": 2,
+    "title": "Spring Art & Culture Festival",
+    "date": "2025-05-03",
+    "startTime": "11:00",
+    "endTime": "20:00",
+    "location": "Queen's Park, Toronto",
+    "description": "An outdoor festival celebrating local artists, performers, food vendors, and cultural showcases.",
+    "category": "Art & Culture",
+    "eventImageURL": "https://2.bp.blogspot.com/-E-bK3xRdVIc/WVmcpiNvBNI/AAAAAAAHhVA/A-t9N73OWO4oZk_czqlzjohXfdd5hHu8QCLcBGAs/s1600/DSC_1941.JPG",
+    "organizer": "City Arts Collective"
+  },
+  {
+    "id": 3,
+    "title": "Charity Run for Mental Health",
+    "date": "2025-06-15",
+    "startTime": "08:00",
+    "endTime": "12:00",
+    "location": "Lakeshore Boulevard, Toronto",
+    "description": "A 5K/10K charity run supporting mental health research and community support programs.",
+    "category": "Health & Wellness",
+    "eventImageURL": "https://cdn.timeoutdoors.com/media/mrf/great-north-run-weekend-great-north-run/mrf-gnr.jpg",
+    "organizer": "Wellness Foundation"
+  },
+  {
+    "id": 4,
+    "title": "Summer Night Live Concert",
+    "date": "2025-07-21",
+    "startTime": "18:00",
+    "endTime": "23:00",
+    "location": "Harbourfront Centre, Toronto",
+    "description": "A live outdoor concert featuring indie bands, food trucks, and waterfront views.",
+    "category": "Music",
+    "eventImageURL": "https://wpgforfree.ca/wp-content/uploads/2019/06/2025-Corydon-Avenue-BIZ-Concert-Series-1024x538.webp",
+    "organizer": "SoundWave Entertainment"
+  },
+  {
+    "id": 5,
+    "title": "Beginner's Photography Workshop",
+    "date": "2025-03-28",
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "location": "Downtown Studio Loft, Toronto",
+    "description": "A hands-on workshop covering the basics of camera settings, lighting, and composition.",
+    "category": "Education",
+    "eventImageURL": "https://www.digitalphotomentor.com/photography/2022/02/photography-workshops-canada-featured.jpg",
+    "organizer": "LensCraft Academy"
+  },
+  {
+    "id": 6,
+    "title": "Intermediate Photography Workshop",
+    "date": "2025-04-20",
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "location": "Downtown Studio Loft, Toronto",
+    "description": "A hands-on workshop covering the basics of camera settings, lighting, and composition.",
+    "category": "Education",
+    "eventImageURL": "https://www.digitalphotomentor.com/photography/2022/02/photography-workshops-canada-featured.jpg",
+    "organizer": "LensCraft Academy"
+  },
+  {
+    "id": 7,
+    "title": "Jazz Dance 101",
+    "date": "2026-02-28",
+    "startTime": "10:00",
+    "endTime": "14:00",
+    "location": "Downtown Studio Loft, Toronto",
+    "description": "A workshop to teach you the basics of jazz!",
+    "category": "Education",
+    "eventImageURL": "https://gotta-dance.com/wp-content/uploads/2021/03/jazz_1.jpg",
+    "organizer": "Madame Step"
+  },
+  {
+    "id": 8,
+    "title": "React Workshop",
+    "date": "2025-12-01",
+    "location": "Ottawa",
+    "description": "Learn React basics",
+    "image": "https://www.goodworks.in/wp-content/uploads/2018/09/React-Js-workshop.png"
+  },
+  {
+    "id": 9,
+    "title": "Java Backend Meetup",
+    "date": "2025-12-05",
+    "location": "Gatineau",
+    "description": "Discuss Java integration",
+    "image": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/6/d/6de0978471d1492334f72c2229f3d302cbfffa771d0366948c190aa99d0a6f3d/java-programming-workshop-slide1.png"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "ticketId": 1,
+    "userId": 1,
+    "eventId": 1,
+    "ticketType": "General Admission",
+    "quantity": 1,
+    "totalPrice": 99.00,
+    "purchaseDate": "2025-02-20",
+    "paymentStatus": "paid",
+    "qrCode": "QR-1-ALEXM-TECHCONF2025"
+  },
+  {
+    "ticketId": 2,
+    "userId": 2,
+    "eventId": 2,
+    "ticketType": "VIP",
+    "quantity": 2,
+    "totalPrice": 150.00,
+    "purchaseDate": "2025-03-10",
+    "paymentStatus": "paid",
+    "qrCode": "QR-2-SARAHK-ARTFEST2025"
+  },
+  {
+    "ticketId": 3,
+    "userId": 5,
+    "eventId": 4,
+    "ticketType": "General Admission",
+    "quantity": 1,
+    "totalPrice": 65.00,
+    "purchaseDate": "2025-03-29",
+    "paymentStatus": "paid",
+    "qrCode": "QR-5-JPATEL-SUMMERCONCERT"
+  },
+  {
+    "ticketId": 4,
+    "userId": 1,
+    "eventId": 3,
+    "ticketType": "General Admission",
+    "quantity": 3,
+    "totalPrice": 75.00,
+    "purchaseDate": "2025-04-01",
+    "paymentStatus": "paid",
+    "qrCode": "QR-1-ALEXM-CHARITYRUN"
+  },
+  {
+    "ticketId": 5,
+    "userId": 2,
+    "eventId": 5,
+    "ticketType": "Workshop Pass",
+    "quantity": 1,
+    "totalPrice": 45.00,
+    "purchaseDate": "2025-02-18",
+    "paymentStatus": "paid",
+    "qrCode": "QR-2-SARAHK-PHOTOWORKSHOP"
+  },
+  {
+    "ticketId": 6,
+    "userId": 5,
+    "eventId": 8,
+    "ticketType": "General Admission",
+    "quantity": 1,
+    "totalPrice": 25.00,
+    "purchaseDate": "2025-11-15",
+    "paymentStatus": "paid",
+    "qrCode": "QR-5-JPATEL-REACTWS"
+  },
+  {
+    "ticketId": 7,
+    "userId": 1,
+    "eventId": 9,
+    "ticketType": "General Admission",
+    "quantity": 1,
+    "totalPrice": 10.00,
+    "purchaseDate": "2025-11-20",
+    "paymentStatus": "pending",
+    "qrCode": "QR-1-ALEXM-JAVAMEETUP"
+  }
+]

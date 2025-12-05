@@ -1,0 +1,119 @@
+[
+  
+  {
+    "ticketId": 1,
+    "eventId": 1,
+    "ticketType": "General Admission",
+    "quantityAvailable": 200,
+    "price": 65.00,
+    "salesStartDate": "2025-01-01",
+    "salesEndDate": "2025-04-10"
+  },
+  {
+    "ticketId": 2,
+    "eventId": 1,
+    "ticketType": "VIP Pass",
+    "quantityAvailable": 50,
+    "price": 120.00,
+    "salesStartDate": "2025-01-01",
+    "salesEndDate": "2025-04-10"
+  },
+
+  {
+    "ticketId": 3,
+    "eventId": 2,
+    "ticketType": "General Admission",
+    "quantityAvailable": 300,
+    "price": 20.00,
+    "salesStartDate": null,
+    "salesEndDate": null
+  },
+
+  {
+    "ticketId": 4,
+    "eventId": 3,
+    "ticketType": "5K Run Pass",
+    "quantityAvailable": 150,
+    "price": 30.00,
+    "salesStartDate": "2025-02-01",
+    "salesEndDate": "2025-06-10"
+  },
+  {
+    "ticketId": 5,
+    "eventId": 3,
+    "ticketType": "10K Run Pass",
+    "quantityAvailable": 150,
+    "price": 45.00,
+    "salesStartDate": "2025-02-01",
+    "salesEndDate": "2025-06-10"
+  },
+
+  {
+    "ticketId": 6,
+    "eventId": 4,
+    "ticketType": "General Admission",
+    "quantityAvailable": 400,
+    "price": 55.00,
+    "salesStartDate": null,
+    "salesEndDate": null
+  },
+  {
+    "ticketId": 7,
+    "eventId": 4,
+    "ticketType": "Front Row VIP",
+    "quantityAvailable": 40,
+    "price": 150.00,
+    "salesStartDate": null,
+    "salesEndDate": null
+  },
+
+  {
+    "ticketId": 8,
+    "eventId": 5,
+    "ticketType": "Workshop Seat",
+    "quantityAvailable": 25,
+    "price": 90.00,
+    "salesStartDate": "2025-01-15",
+    "salesEndDate": "2025-03-25"
+  },
+
+  {
+    "ticketId": 9,
+    "eventId": 6,
+    "ticketType": "Workshop Seat",
+    "quantityAvailable": 25,
+    "price": 120.00,
+    "salesStartDate": "2025-01-15",
+    "salesEndDate": "2025-04-15"
+  },
+
+  {
+    "ticketId": 10,
+    "eventId": 7,
+    "ticketType": "Dance Class Pass",
+    "quantityAvailable": 40,
+    "price": 35.00,
+    "salesStartDate": "2025-10-01",
+    "salesEndDate": "2026-02-20"
+  },
+
+  {
+    "ticketId": 11,
+    "eventId": 8,
+    "ticketType": "General Admission",
+    "quantityAvailable": 60,
+    "price": 25.00,
+    "salesStartDate": null,
+    "salesEndDate": null
+  },
+
+  {
+    "ticketId": 12,
+    "eventId": 9,
+    "ticketType": "Meetup Entry",
+    "quantityAvailable": 80,
+    "price": 10.00,
+    "salesStartDate": null,
+    "salesEndDate": null
+  }
+]
